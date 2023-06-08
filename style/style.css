@@ -21,7 +21,9 @@ h2{
 p{
   font-size:18px;
 }
-
+.fcontainer{
+  opacity: 0.5;
+}
 /* stile container principale*/
 .container {
     width: 60%;
